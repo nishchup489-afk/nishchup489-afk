@@ -1,4 +1,4 @@
-# Hi, I’m Sadnan Hossain (Nish) 👋
+# Hi, I’m (Nish) 👋
 
 **Backend Engineer** — Python · FastAPI · Next.js · PostgreSQL · Building AI-powered web apps
 
