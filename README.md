@@ -15,7 +15,6 @@ I care about shipping real things — clean service-layer architecture, well-des
 - **[NeuraAcademy](#)** — A full SaaS course platform (shipped).
 - **Talk_to_me** — React · TypeScript · Vite · Mistral AI chat app.
 
-> Replace the `#` links above with the actual repo URLs once they’re public.
 
 -----
 
@@ -42,7 +41,7 @@ Backend Engineer → AI Engineer → ML / Inference Engineering. Currently going
 ### 📫 Reach me
 
 - Email: **nishchup489@gmail.com**
-- LinkedIn: *add your profile URL*
+- LinkedIn: **linkedin.com/in/sadnan-nishthup-7405273a5/**
 
 <!--
 Tip: pin your 5–6 strongest repos on your profile so this README sits above curated work.
