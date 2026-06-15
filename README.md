@@ -1,48 +1,92 @@
-# Hi, I’m (Nish) 👋
+# Hi, I’m Nish 👋
 
-**Backend Engineer** — Python · FastAPI · Next.js · PostgreSQL · Building AI-powered web apps
+**Backend-focused full-stack developer** building with Python, FastAPI, Next.js, PostgreSQL, and AI-powered web systems.
 
-Self-taught developer based in Brooklyn, NYC. I moved to the US in late 2025 and have been building full-stack and AI-powered applications around a full-time job ever since. Backend is my home base; I’m working toward AI/ML inference engineering next.
+I’m a self-taught developer based in Brooklyn, NYC. I moved to the US in late 2025 and have been building real full-stack products while working a full-time job. Backend engineering is my home base: service-layer architecture, clean data models, API design, authentication flows, and systems people can actually use.
 
-I care about shipping real things — clean service-layer architecture, well-designed data models, and apps people can actually click on.
+Right now, I’m going deeper into scalable backend architecture, AI-powered applications, and the path toward AI/ML inference engineering.
 
------
+---
 
-### 🔭 What I’m building right now
+## 🔭 What I’m building
 
-- **[Codegram](#)** — A social platform for developers where your build history *is* your portfolio. Next.js · FastAPI · PostgreSQL · Clerk.
-- **Villa Russo Café Portal** — A staff portal with order management, built on Next.js · FastAPI · PostgreSQL · Clerk, with a SQLAlchemy/Pydantic backend.
-- **[NeuraAcademy](#)** — A full SaaS course platform (shipped).
-- **Talk_to_me** — React · TypeScript · Vite · Mistral AI chat app.
+### [Devmaniac](#)
 
+A build-in-public platform for developers where the building process becomes part of the portfolio. Developers can post finished projects, track live projects, write progress journals, and show proof of work over time.
 
------
+**Stack:** Next.js · FastAPI · PostgreSQL · SQLAlchemy · Clerk · Tailwind CSS
 
-### 🛠️ Stack
+### Villa Russo Café Portal
 
-**Languages**  Python · TypeScript · JavaScript · SQL
+A staff/internal operations portal for café workflow management, including order-related features and authenticated staff access.
 
-**Backend**  FastAPI · Flask · SQLAlchemy · Pydantic v2 · PostgreSQL · SQLite
+**Stack:** Next.js · FastAPI · PostgreSQL · SQLAlchemy · Pydantic · Clerk
 
-**Frontend**  Next.js · React · Tailwind CSS · Clerk (auth)
+### [NeuraAcademy](#)
 
-**Tooling**  pnpm · Git · Render · Vercel
+A SaaS-style course platform with authentication, course structure, and full-stack functionality.
 
-**Exploring**  Local ML/AI inference · RAG · model fine-tuning
+**Stack:** React · Flask · SQLite · Authentication · REST APIs
 
------
+### Talk_to_me
 
-### 🌱 Where I’m headed
+An AI chat application built with React, TypeScript, Vite, and Mistral AI.
 
-Backend Engineer → AI Engineer → ML / Inference Engineering. Currently going deep on FastAPI architecture, database design patterns, and running local inference workloads on my own hardware.
+**Stack:** React · TypeScript · Vite · Mistral AI
 
------
+---
 
-### 📫 Reach me
+## 🛠️ Tech Stack
 
-- Email: **nishchup489@gmail.com**
-- LinkedIn: **linkedin.com/in/sadnan-nishthup-7405273a5/**
+**Languages**  
+Python · TypeScript · JavaScript · SQL
 
-<!--
-Tip: pin your 5–6 strongest repos on your profile so this README sits above curated work.
--->
+**Backend**  
+FastAPI · Flask · SQLAlchemy · Pydantic v2 · PostgreSQL · SQLite · REST APIs
+
+**Frontend**  
+Next.js · React · Tailwind CSS · Clerk
+
+**Tools & Deployment**  
+Git · GitHub · pnpm · Vercel · Render · Neon · Cloudinary
+
+**Currently exploring**  
+Local AI inference · RAG · model fine-tuning · scalable backend patterns · ML systems
+
+---
+
+## 🌱 Current direction
+
+I’m focused on becoming a stronger backend engineer first, then moving deeper into AI engineering and ML/inference systems.
+
+Current areas of focus:
+
+- Advanced FastAPI architecture
+- Database design and SQLAlchemy patterns
+- Authentication and authorization systems
+- Dockerized development workflows
+- Redis, WebSockets, and background jobs
+- AI-powered web apps
+- Local inference and RAG pipelines
+
+---
+
+## 📌 What I care about
+
+- Shipping real projects, not just tutorials
+- Clean backend architecture
+- Practical product thinking
+- Building in public
+- Learning deeply and documenting the process
+- Turning proof of work into opportunity
+
+---
+
+## 📫 Reach me
+
+**Email:** nishchup489@gmail.com  
+**LinkedIn:** linkedin.com/in/sadnan-nishthup-7405273a5/
+
+---
+
+> Building one real project teaches more than watching ten perfect tutorials.
